@@ -1,0 +1,4 @@
+open ftp://anonymous:pass@10.0.2.2
+cd pub
+put tutdraw.iso
+bye

@@ -1,0 +1,11 @@
+@echo off
+del mem.map
+del main.sym
+del main.exe
+del main.cpe
+del tutdraw.iso
+del tutdraw.bin
+del tutdraw.cue
+del qsheet.toc
+del cdw900e.toc
+del tutdraw.img
